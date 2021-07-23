@@ -1,7 +1,7 @@
 # [BINARY SQUIRREL](https://binarysquirrel.cf)
 
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit/material-kit.gif)
+![Product Gif](https://github.com/srj7/Binary-Squirrel-Website-PWA/blob/main/BSQL.png?raw=true)
 
 **Material Kit** is a **Free Bootstrap 4 UI Kit** with a fresh, new design inspired by Google's material design. You asked for it, so we built it. It's a great pleasure to introduce to you the material concepts in an easy to use and beautiful set of components. Along with the restyling of the Bootstrap elements, you will find three fully-coded example pages, to help you design your next project.
 
